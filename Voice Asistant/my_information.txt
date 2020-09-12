@@ -1,0 +1,5 @@
+
+Hello there. My name is Mahmut. I am a senior student of Beykent university, computer programming. 
+I am developing this program for my thesis work. 
+Thanks to the program, you will be able to translate this text into sound. 
+See you.
